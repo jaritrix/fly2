@@ -1,5 +1,6 @@
 
 # ThreeJs-Animation-Scroll-fly gif
-![Document-GoogleChrome2025-06-1520-12-19-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/41601b69-59c7-421e-a85e-9b9a59bde451)
+
+![ThreeJs-Animation-Scroll-fly gif](https://github.com/user-attachments/assets/f663e113-184f-4e81-8010-92cbe96da272)
 
 # https://fly2.onrender.com visit on the side
